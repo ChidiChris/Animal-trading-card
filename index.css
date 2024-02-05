@@ -9,6 +9,7 @@ body {
     /* background-image: url("https://wallpaperscraft.com/image/fire_background_dark_lines_47328_1920x1200.jpg"); */
     color: #222;
     font-family: "Oxygen", sans-serif;
+    width: 100%;
 }
 
 #container {
