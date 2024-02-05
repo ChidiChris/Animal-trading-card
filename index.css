@@ -1,4 +1,10 @@
 /* CSS for Animal Trading Cards  */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
 body {
     /* background-image: url("https://wallpaperscraft.com/image/fire_background_dark_lines_47328_1920x1200.jpg"); */
     color: #222;
